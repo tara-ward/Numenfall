@@ -1,0 +1,402 @@
+{
+  "name": "Numenfall",
+  "title": "Numenfall",
+  "metadata": {
+    "author": "Tara Ward",
+    "year": "2025",
+    "genre": "Fantasy - Isekai"
+  },
+  "content": {
+    "0": {
+      "text": "COMP74 - Web Services\nWritten by Tara Ward\nYear: 2025\nGenre: Fantasy - Isekai",
+      "logo": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/Numenfall%20.png",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/0.png",
+      "options": [{"text": "Chapter One", "goto": "1"}]
+    },
+    "1": {
+      "text": "I remember nothing but a bitter cold that seeped deep into my bones and a darkness filled with dancing stars.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/1.png",
+      "options": [{"text": "Continue...", "goto": "2"}]
+    },
+    "2": {
+      "text": "I couldn't feel my feet, and all around me was a silent, frozen expanse of light.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/1.png",
+      "options": [{"text": "Continue...", "goto": "3"}]
+    },
+    "3": {
+      "text": "In those final moments before everything went black, a single, desperate thought pulsed through my mind—I had pushed that frightened kid out of the way of a speeding van.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/2.png",
+      "options": [{"text": "Continue...", "goto": "4"}]
+    },
+    "4": {
+      "text": "That act, fleeting yet fierce, is the only memory that clings to me from a time I can scarcely recall.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/2.png",
+      "options": [{"text": "Continue...", "goto": "5"}]
+    },
+    "5": {
+      "text": "Groan... I whispered to myself, though it felt as if I were speaking into a void.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/3.png",
+      "options": [{"text": "Continue...", "goto": "6"}]
+    },
+    "6": {
+      "text": "The chill was numbing, and confusion reigned over any rational thought.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/3.png",
+      "options": [{"text": "Continue...", "goto": "7"}]
+    },
+    "7": {
+      "text": "I had no idea what was happening, only that the stars shimmered overhead like distant beacons in an endless night.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/4.png",
+      "options": [{"text": "Continue...", "goto": "8"}]
+    },
+    "8": {
+      "text": "Then, without warning, the darkness receded.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/4.png",
+      "options": [{"text": "Continue...", "goto": "9"}]
+    },
+    "9": {
+      "text": "I remember a sharp contrast—a searing warmth, like the sun breaking through a lifetime of winter.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/4.png",
+      "options": [{"text": "Continue...", "goto": "10"}]
+    },
+    "10": {
+      "text": "Slowly, I began to sense my surroundings.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "11"}]
+    },
+    "11": {
+      "text": "The oppressive cold was replaced by a gentle heat that caressed my skin, and I could finally feel the slight pressure of grass beneath me.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "12"}]
+    },
+    "12": {
+      "text": "My toes wiggled as if awakening from a long, forgotten slumber, and with that realization came the unmistakable sensation of life.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "13"}]
+    },
+    "13": {
+      "text": "I tried to sit up, blinking against the brightness, when I felt a peculiar poke against my side.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "14"}]
+    },
+    "14": {
+      "text": "I turned my head to find a figure leaning over me—a creature unlike any I'd seen before.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "15"}]
+    },
+    "15": {
+      "text": "He was half-man, half-goat: his lower half a tuft of coarse fur and cloven hooves, while the upper half bore a weathered human face crowned with a wild, tangled beard and a pair of small, curved horns. In one hand, he held a stick which he used to gently prod me.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "16"}]
+    },
+    "16": {
+      "text": "Hey, you awake? he asked, his voice a gruff yet oddly comforting rumble that broke the silence of the morning.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "17"}]
+    },
+    "17": {
+      "text": "I blinked, disoriented by the sudden onslaught of sensations. My mind whirled—stars, cold, and then this searing warmth.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "18"}]
+    },
+    "18": {
+      "text": "Who… who are you? I managed, my voice trembling as much from confusion as from the chill that still lingered in the back of my memory.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "19"}]
+    },
+    "19": {
+      "text": "The creature regarded me with an inscrutable look.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "20"}]
+    },
+    "20": {
+      "text": "Name's Kharis. I came across you lying there, half-buried in the grass. You were out cold, but you're breathing now. That's what matters.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "21"}]
+    },
+    "21": {
+      "text": "His tone was matter-of-fact, as if finding someone unconscious was an everyday occurrence in these parts.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "22"}]
+    },
+    "22": {
+      "text": "I frowned, trying to piece together the fragments of my fading recollection.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "23"}]
+    },
+    "23": {
+      "text": "Didn't I…? A nagging thought pricked at the edges of my consciousness—didn't I die?",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "24"}]
+    },
+    "24": {
+      "text": "But before I could form the question, a sharper sensation of warmth, and a realization, snapped me back.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "25"}]
+    },
+    "25": {
+      "text": "I pushed myself into a sitting position, my arms trembling as I brushed blades of dew-damp grass off my skin.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "26"}]
+    },
+    "26": {
+      "text": "That's when I noticed: I wasn't wearing the faded sweats and worn-out sneakers I'd known just moments before.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "27"}]
+    },
+    "27": {
+      "text": "Instead, draped over my body was a tunic of deep, earthy green with intricate silver embroidery—a style both foreign and oddly regal.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "28"}]
+    },
+    "28": {
+      "text": "My hands, too, were adorned with delicate bracelets that glimmered with an otherworldly luster.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "29"}]
+    },
+    "29": {
+      "text": "My heart pounded in disbelief as I surveyed this new version of myself.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "30"}]
+    },
+    "30": {
+      "text": "What is this place? I asked, my voice barely above a whisper.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "31"}]
+    },
+    "31": {
+      "text": "I stared at the horizon where rolling hills met a sky that seemed impossibly blue, punctuated by wisps of white cloud.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "32"}]
+    },
+    "32": {
+      "text": "The landscape, bathed in the soft radiance of the sun, felt like a vivid dream—a stark contrast to the frozen void I'd just escaped.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "33"}]
+    },
+    "33": {
+      "text": "Kharis shifted his weight, setting his stick aside.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "34"}]
+    },
+    "34": {
+      "text": "This is Numenfall, he replied simply, as if naming the land was as natural as stating the time of day. It's where you are now.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "35"}]
+    },
+    "35": {
+      "text": "I stared at him, the name echoing in my ears like a riddle.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "36"}]
+    },
+    "36": {
+      "text": "Numenfall… It sounded like something out of a legend.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "37"}]
+    },
+    "37": {
+      "text": "My mind raced.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "38"}]
+    },
+    "38": {
+      "text": "How can I be here? I remember cold, stars, and... darkness. I remember saving someone. I remember a van…",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "39"}]
+    },
+    "39": {
+      "text": "The questions tumbled over one another, threatening to spill out.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "40"}]
+    },
+    "40": {
+      "text": "“Numenfall?” I echoed, my voice a mixture of wonder and disbelief. “I… I don't understand. One moment, I was—",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "41"}]
+    },
+    "41": {
+      "text": "I faltered, swallowing hard as the memory of that harrowing moment surged back.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "42"}]
+    },
+    "42": {
+      "text": "“I pushed someone away… and now, everything's changed.”",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "43"}]
+    },
+    "43": {
+      "text": "Kharis's eyes softened for a moment, though his features remained lined with a curious detachment.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "44"}]
+    },
+    "44": {
+      "text": "“I found you on the field, as if you had simply fallen asleep under the open sky.”",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "45"}]
+    },
+    "45": {
+      "text": "He paused, his gaze drifting toward mine.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "46"}]
+    },
+    "46": {
+      "text": "“I won't pretend to know all the answers, Veya, but you seem… different. There's something in your aura—a power, perhaps—that I haven't seen in a human before.”",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "47"}]
+    },
+    "47": {
+      "text": "The name, Veya, startled me. I hadn't introduced myself, yet he called me by name as if he'd known me all along.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "48"}]
+    },
+    "48": {
+      "text": "“Veya?” I repeated slowly, as if testing the word on my tongue.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "49"}]
+    },
+    "49": {
+      "text": "It resonated with an inexplicable familiarity, though no memory of it had ever surfaced until now.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "50"}]
+    },
+    "50": {
+      "text": "“Yeah,” Kharis said with a small, mysterious smile.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "51"}]
+    },
+    "51": {
+      "text": "“You were mumbling in your sleep. You kept saying the name 'Veya'. I only assumed it was yours. I can also read auras, and yours is… well, it's strong. It drew me to find you.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "52"}]
+    },
+    "52": {
+      "text": "Not many in these parts have that kind of spark. You're going to have questions, I'm sure, about how you ended up here. But for now, just try to gather your strength.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "53"}]
+    },
+    "53": {
+      "text": "I took a deep breath.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "54"}]
+    },
+    "54": {
+      "text": "“Why… why would I have this power?” I asked, more to myself than to Kharis.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "55"}]
+    },
+    "55": {
+      "text": "The idea that I, an ordinary woman with a life I thought was over, could be imbued with something extraordinary was almost too much to comprehend.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "56"}]
+    },
+    "56": {
+      "text": "Kharis's eyes gleamed with an unfathomable depth as he regarded me.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "57"}]
+    },
+    "57": {
+      "text": "“That, Veya, is a mystery for you to unravel,” he replied, his tone neither condescending nor reassuring—simply matter-of-fact.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "58"}]
+    },
+    "58": {
+      "text": "“But know this: you's not like the others who wander these lands. There's magic in you, even if you never knew it existed.”",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "59"}]
+    },
+    "59": {
+      "text": "I shook my head slowly, a myriad of thoughts colliding inside me.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "60"}]
+    },
+    "60": {
+      "text": "Magic? But I was just a regular person… a human. How can this be real?",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "61"}]
+    },
+    "61": {
+      "text": "My mind spiraled into a vortex of questions without answers, each more bewildering than the last.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "62"}]
+    },
+    "62": {
+      "text": "For a long moment, silence stretched between us as I absorbed the surreal reality of Numenfall.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "63"}]
+    },
+    "63": {
+      "text": "The gentle rustle of the tall grass, the distant murmur of a flowing stream, and the hum of a world entirely different from the one I'd known before all conspired to soothe my racing thoughts.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "64"}]
+    },
+    "64": {
+      "text": "Finally, I asked, “So, what happens now?”",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "65"}]
+    },
+    "65": {
+      "text": "My voice trembled as I spoke, balancing on the cusp of dread and anticipation.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "66"}]
+    },
+    "66": {
+      "text": "Kharis crouched down beside me, his expression earnest.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "67"}]
+    },
+    "67": {
+      "text": "“Now, you start to learn. Numenfall is full of wonders—and dangers—that defy the logic you once knew.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "68"}]
+    },
+    "68": {
+      "text": "I suggest you take a moment to rest and get your bearings. There's a small village not far from here; perhaps there, you can find the answers you seek.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "69"}]
+    },
+    "69": {
+      "text": "I nodded slowly, still overwhelmed by the cascade of new sensations, the altered fabric of my clothes, and the weight of the unspoken questions swirling in my heart.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "70"}]
+    },
+    "70": {
+      "text": "As I helped myself to a more comfortable position, I couldn't shake the persistent thought:",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "71"}]
+    },
+    "71": {
+      "text": "Did I truly leave everything behind?",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "72"}]
+    },
+    "72": {
+      "text": "But for now, the truth lay hidden somewhere between the memories of a life I thought was over and the magic of this strange new world.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "73"}]
+    },
+    "73": {
+      "text": "“Thank you,” I managed to say, my voice steadier than I felt. “I guess I have a lot to learn.”",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "74"}]
+    },
+    "74": {
+      "text": "Kharis's half-smile widened just a fraction.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "75"}]
+    },
+    "75": {
+      "text": "“Learning is the only way forward, Veya. And who knows? Maybe you're exactly the kind of person Numenfall has been waiting for.”",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "76"}]
+    },
+    "76": {
+      "text": "As the sun climbed higher, bathing the field in golden light, I resolved to find the answers—even if it meant uncovering truths that defied everything I once believed.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "Continue...", "goto": "77"}]
+    },
+    "77": {
+      "text": "With each new step, I felt the gentle assurance of magic pulsing beneath my skin, hinting at a destiny I had yet to fully understand.",
+      "background": "https://raw.githubusercontent.com/tara-ward/Numenfall/refs/heads/main/5.png",
+      "options": [{"text": "End of Chapter One"}]
+    }
+  }
+}
